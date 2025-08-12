@@ -11,6 +11,7 @@ The scripts cover:
 - Advanced analytical queries using JOINs, subqueries, window functions, and CTEs
 
 📂 Files Included
+
 📌 Queries.sql – Contains all SQL queries grouped by:
 
 - YouTube Engagement Analysis
@@ -86,8 +87,11 @@ The Queries.sql file includes:
 - Total activities per user across platforms
 
 ⚙️ How to Use
+
 💾 Prerequisites
+
 A SQL database engine such as:
+
 ✅ MySQL  ✅ PostgreSQL  ✅ SQL Server
 
 ▶️ Execution Steps:
