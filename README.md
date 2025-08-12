@@ -92,7 +92,9 @@ The Queries.sql file includes:
 
 A SQL database engine such as:
 
-✅ MySQL  ✅ PostgreSQL  ✅ SQL Server
+✅ MySQL  
+✅ PostgreSQL  
+✅ SQL Server
 
 ▶️ Execution Steps:
 
