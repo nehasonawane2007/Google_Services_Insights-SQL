@@ -97,6 +97,7 @@ A SQL database engine such as:
 3️⃣ Modify queries or join conditions to explore deeper insights.
 
 👨‍💻 Author
+
 📌 Neha Sonawane- Passionate about data analytics and cross-platform behavioral insights.
 
 🔍 Happy Querying! 🚀📊
