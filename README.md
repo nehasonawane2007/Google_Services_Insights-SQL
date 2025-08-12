@@ -99,7 +99,9 @@ A SQL database engine such as:
 ▶️ Execution Steps:
 
 1️⃣ Import the CSV datasets into your database as tables.
+
 2️⃣ Run queries from Queries.sql in your SQL editor.
+
 3️⃣ Modify queries or join conditions to explore deeper insights.
 
 👨‍💻 Author
