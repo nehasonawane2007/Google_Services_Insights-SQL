@@ -1,6 +1,7 @@
 📊 Google Platforms Data Analysis SQL Scripts
 
 🚀 Overview
+
 Welcome to the Google Platforms Data Analysis repository!
 This project contains SQL scripts designed to analyze user behavior across multiple Google services — YouTube, Google Pay, and Google Search.
 The queries provide insights into content engagement, spending habits, search behavior, and cross-platform interactions.
