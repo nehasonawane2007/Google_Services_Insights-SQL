@@ -89,13 +89,9 @@ The Queries.sql file includes:
 
 ⚙️ How to Use
 
-💾 Prerequisites
-
 A SQL database engine such as:
 
 ✅ MySQL  
-✅ PostgreSQL  
-✅ SQL Server
 
 ▶️ Execution Steps:
 
